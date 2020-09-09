@@ -71,6 +71,15 @@ npm run test
 coverage/lcov-report/
 ```
 
+## 構文チェックと自動コード整形
+
+git comit時にgit addしたjsファイルの構文チェックを行います。
+
+構文にerrorまたはwarningがある場合はコミットを失敗させます。
+
+その際はプログラムを修正し再度git add後git commit願います。
+
+構文にerrorとwarningがない場合は自動でコード整形します。
 
 # 二分探索
 
@@ -148,4 +157,14 @@ npm run test
 ```
 coverage/lcov-report/
 ```
+
+## 構文チェックと自動コード整形
+
+git comit時にgit addしたjsファイルの構文チェックを行います。
+
+構文にerrorまたはwarningがある場合はコミットを失敗させます。
+
+その際はプログラムを修正し再度git add後git commit願います。
+
+構文にerrorとwarningがない場合は自動でコード整形します。
 
