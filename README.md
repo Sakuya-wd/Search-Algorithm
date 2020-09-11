@@ -26,6 +26,14 @@ srcディレクリ内にあるindex.htmlの一部ソースを変更願います�
 <!--<script type="module" src="src/BinarySearchDisplay.js"></script>-->
 ```
 
+node_modulesのインストールを願います。
+
+インストールコマンド
+
+```
+npm install 
+```
+
 srcディレクトリ内にてプログラム実行コマンドを願います。
 
 プログラム実行コマンド
@@ -37,13 +45,9 @@ node LinearSearchDisplay.js
 Error: Cannot find moduleが出た場合はnode_modulesを削除し再度インストール願います。
 
 削除コマンド
+
 ```
 rm -rf node_modules
-```
-
-インストールコマンド
-```
-npm install 
 ```
 
 
@@ -57,10 +61,26 @@ npm install
 
 ## テスト実行
 
+node_modulesのインストールを願います。
+
+インストールコマンド
+
+```
+npm install 
+```
+
 テスト実行コマンド
 
 ```
 npm run test
+```
+
+Error: Cannot find moduleが出た場合はnode_modulesを削除し再度インストール願います。
+
+削除コマンド
+
+```
+rm -rf node_modules
 ```
 
 ## カバレッジ
@@ -113,6 +133,14 @@ srcディレクリ内にあるindex.htmlの一部ソースを変更願います�
 <script type="module" src="scc/BinarySearchDisplay.js"></script>
 ```
 
+node_modulesのインストールを願います。
+
+インストールコマンド
+
+```
+npm install 
+```
+
 srcディレクトリ内にてプログラム実行コマンドを願います。
 
 プログラム実行コマンド
@@ -124,13 +152,9 @@ node BinarySearchDisplay.js
 Error: Cannot find moduleが出た場合はnode_modulesを削除し再度インストール願います。
 
 削除コマンド
+
 ```
 rm -rf node_modules
-```
-
-インストールコマンド
-```
-npm install 
 ```
 
 
@@ -144,10 +168,26 @@ npm install
 
 ## テスト実行
 
+node_modulesをインストールを願います。
+
+インストールコマンド
+
+```
+npm install 
+```
+
 テスト実行コマンド
 
 ```
 npm run test
+```
+
+Error: Cannot find moduleが出た場合はnode_modulesを削除し再度インストール願います。
+
+削除コマンド
+
+```
+rm -rf node_modules
 ```
 
 ## カバレッジ
