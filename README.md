@@ -16,16 +16,6 @@
 
 ## プログラム実行
 
-srcディレクリ内にあるindex.htmlの一部ソースを変更願います。
-
-二段目の<script></script>を下記のようにコメントして下さい。
-
-```html
-<script type="module" src="src/LinearSearchDisplay.js"></script>
-
-<!--<script type="module" src="src/BinarySearchDisplay.js"></script>-->
-```
-
 node_modulesのインストールを願います。
 
 インストールコマンド
@@ -122,16 +112,6 @@ git comit時にgit addしたjsファイルの構文チェックを行います�
 ・ 探す値が配列にない場合、エラー(-1)を出力する。
 
 ## プログラム実行
-
-srcディレクリ内にあるindex.htmlの一部ソースを変更願います。
-
-一段目の<script></script>を下記のようにコメントして下さい。
-
-```html
-<!--<script type="module" src="src/LinearSearchDisplay.js"></script>-->
-
-<script type="module" src="scc/BinarySearchDisplay.js"></script>
-```
 
 node_modulesのインストールを願います。
 
