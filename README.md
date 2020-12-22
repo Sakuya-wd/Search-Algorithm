@@ -2,6 +2,24 @@
 
 線形探索、二分探索のプログラムを用意しました。
 
+## 開発環境
+
+OS: macOS Catalina(バージョン10.15.6)
+
+ターミナル: Terminal.app
+
+エディター: Visual Studio Code 2
+
+開発言語: JavaScript Jeat
+
+バージョン管理: Git
+
+Node.js: (バージョンv14.7.0)
+
+パッケージ管理: npm (バージョン6.14.8)
+
+使用パッケージ: ESLint Prettier husky lint-staged
+
 # 線形探索
 
 ## プログラム仕様
