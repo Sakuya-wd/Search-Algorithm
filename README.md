@@ -206,3 +206,9 @@ git comit時にgit addしたjsファイルの構文チェックを行います�
 
 構文にerrorとwarningがない場合は自動でコード整形します。
 
+## 作成理由
+
+JavaScript Jestの基本文法を学習すると同時に、効率的な開発方法を学習するため。
+
+プログラムの品質を自動的に保つため、ESLint Prettier husky lint-stagedを学習。
+
