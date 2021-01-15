@@ -190,10 +190,14 @@ rm -rf node_modules
 
 ## カバレッジ
 
-下記ディレクトリをブラウザで表示願います。
+・ Chromeのブラウザを起動願います。
+
+・ ファイルからファイルを開くを選択してください。
+
+・ 下記ファイルをブラウザで表示願います。
 
 ```
-coverage/lcov-report/
+coverage/lcov-report/index.html
 ```
 
 ## 構文チェックと自動コード整形
