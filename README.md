@@ -86,7 +86,7 @@ npm install
 線形探索のテスト実行コマンド
 
 ```
-jest LinearSearchConfirmation.test.js
+jest LinearSearchConfirm.test.js
 ```
 
 全探索アルゴリズムの一斉テスト実行コマンド
@@ -200,7 +200,7 @@ npm install
 二分探索のテスト実行コマンド
 
 ```
-jest BinarySearchConfirmation.test.js
+jest BinarySearchConfirm.test.js
 ```
 
 全探索アルゴリズムの一斉テスト実行コマンド
