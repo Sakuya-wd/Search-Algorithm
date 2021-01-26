@@ -3,11 +3,12 @@
 const BinarySearchConfirm = require("./BinarySearchConfirm.js");
 
 const BinarySearchDisplay = () => {
-  //検索する値(正の整数)。
+  //検索元のデータ。
+  let BinaryArray = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+  //検索する値。
   let search = 1;
-  let result = BinarySearchConfirm(search);
 
-  console.log(result);
+  console.log(BinarySearchConfirm(BinaryArray,search));
 };
 
 BinarySearchDisplay();

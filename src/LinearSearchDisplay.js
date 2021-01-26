@@ -3,11 +3,12 @@
 const LinearSearchConfirm = require("./LinearSearchConfirm.js");
 
 const LinearSearchDisplay = () => {
-  //検索する値(正の整数)。
+  //検索元のデータ。
+  let LinearArray = [1, 4, 0, 3, 2];
+  //検索する値。
   let search = 4;
-  let result = LinearSearchConfirm(search);
-
-  console.log(result);
+  
+  console.log(LinearSearchConfirm(LinearArray,search));
 };
 
 LinearSearchDisplay();
