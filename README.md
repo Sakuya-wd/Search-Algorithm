@@ -4,7 +4,7 @@
 
 ## 開発環境
 
-OS: macOS Catalina(バージョン10.15.6)
+OS: macOS Catalina(バージョン10.15.6 ~ 10.15.7)
 
 ターミナル: Terminal.app
 
