@@ -18,7 +18,13 @@ Node.js: (バージョンv14.7.0)
 
 パッケージ管理: npm (バージョン6.14.8)
 
-使用パッケージ: ESLint Prettier husky lint-staged
+使用パッケージ: eslint(バージョン7.8.1), eslint-config-prettier(バージョン6.11.0), 
+
+eslint-plugin-jest(バージョン24.3.2), eslint-plugin-prettier(バージョン3.1.4),
+
+husky(バージョン4.3.0), jest(バージョン26.4.2), lint-staged(バージョン10.3.0),
+
+prettier(バージョン2.1.1)
 
 # 線形探索
 
