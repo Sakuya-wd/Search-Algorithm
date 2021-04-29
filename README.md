@@ -98,7 +98,7 @@ jest LinearSearchConfirm.test.js
 全探索アルゴリズムの一斉テスト実行コマンド
 
 ```
-npm run test
+jest
 ```
 
 Error: Cannot find moduleが出た場合はnode_modulesを削除し再度インストール願います。
@@ -212,7 +212,7 @@ jest BinarySearchConfirm.test.js
 全探索アルゴリズムの一斉テスト実行コマンド
 
 ```
-npm run test
+jest
 ```
 
 Error: Cannot find moduleが出た場合はnode_modulesを削除し再度インストール願います。
